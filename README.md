@@ -30,3 +30,14 @@ The R and Python scripts should be run from the directory they are in. Output wi
 * `PhylTrees.R`
 * Contains the R code used to plot the phylogenetic tree of supplemental figure 3 based on the `gallwasps.con.tre` file created by MrBayes.
 * The file `session_info.txt` gives information on version numbers of all R packages and the platform used for the final analysis as described in the manuscript.
+
+### **`data`**
+
+The data we used in our analysis and was published by Schuler and colleagues (2018) along with the paper “Diversity and distribution of Wolbachia in relation to geography, host plant affiliation and life cycle of a heterogonic gall wasp”. The raw data can also be downloaded at 
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.6k94r
+
+#### **`mtDNASeq`**
+
+* Contains the raw sequences of all the sequenced gallwasps.
+* `sample overview.xlsx`: Excel table providing an overview of the origin, the infection status, the generation, the sex,
+the host plant and the sampling time of all the sequences in the mtDNASeq folder.
