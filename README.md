@@ -13,7 +13,6 @@ This repository contains data and scripts for the manuscript:
 
 ### **`code`**
 
-Information on running scripts:
 The R and Python scripts should be run from the directory they are in. Output will be stored in created subfolders as the code is run. 
 
 #### **`Python`**
