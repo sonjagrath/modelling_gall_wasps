@@ -13,3 +13,17 @@ This repository contains data and scripts for the manuscript:
 
 * The R and Python scripts should be run from the directory they are in. Output will be stored in created subfolders as the code is run. 
 * The file session_info.txt gives information on version numbers of all R packages and the platform for final analyses described in the manuscript.
+
+## Directory structure
+
+code
+
+### Python
+
+* DemonstrationOfTheModel.ipynb
+   * Demonstrates the model equations and plots the spread of Wolbachia and the infection associated mtDNA depending on the chosen parameters.
+   * Figure 5 and figure 6 are plotted here. [figure numbers need to be updated]
+
+* TestingForMinimumCI.ipynb
+    * Contains the calculation of the confidence intervals, the calculation of the minimum level of CI based on maternal transmission measurements (first approach) and the comparison of the data with model predictions (second approach).
+    * Figure 9 and figure 10 are plotted here. [figure numbers need to be updated]
