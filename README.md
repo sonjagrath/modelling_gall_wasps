@@ -7,7 +7,7 @@ This repository contains data and scripts for the manuscript:
 ## Data availability
 
 * All code is available in this github repository.
-* Supplementary material for the publication is available at figshare: still to be done
+* Supplementary material for the publication is available at figshare: <!-- still to be done --> 
     
 ## Infomation on running scripts
 
@@ -16,19 +16,19 @@ This repository contains data and scripts for the manuscript:
 
 ## Directory structure
 
-### code
+### **`code`**
 
-#### Python
+#### **`Python`**
 
-* DemonstrationOfTheModel.ipynb
+* `DemonstrationOfTheModel.ipynb`
    * Demonstrates the model equations and plots the spread of Wolbachia and the infection associated mtDNA depending on the chosen parameters.
    * Figure 5 and figure 6 are plotted here. <!-- [figure numbers need to be updated]-->
 
-* TestingForMinimumCI.ipynb
+* `TestingForMinimumCI.ipynb`
     * Contains the calculation of the confidence intervals, the calculation of the minimum level of CI based on maternal transmission measurements (first approach) and the comparison of the data with model predictions (second approach).
     * Figure 9 and figure 10 are plotted here. <!-- [figure numbers need to be updated]-->
 
-#### R
+#### **`R`**
 
-* PhylTrees.R
-* Contains the R code used to plot the phylogenetic tree of supplemental figure 3 based on the gallwasps.con.tre file created by MrBayes.
+* `PhylTrees.R`
+* Contains the R code used to plot the phylogenetic tree of supplemental figure 3 based on the `gallwasps.con.tre` file created by MrBayes.
