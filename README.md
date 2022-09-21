@@ -9,14 +9,12 @@ This repository contains data and scripts for the manuscript:
 * All code is available in this github repository.
 * Supplementary material for the publication is available at figshare: <!-- still to be done --> 
     
-## Infomation on running scripts
-
-* The R and Python scripts should be run from the directory they are in. Output will be stored in created subfolders as the code is run. 
-* The file session_info.txt gives information on version numbers of all R packages and the platform for final analyses described in the manuscript.
-
 ## Directory structure
 
 ### **`code`**
+
+Information on running scripts:
+The R and Python scripts should be run from the directory they are in. Output will be stored in created subfolders as the code is run. 
 
 #### **`Python`**
 
@@ -32,3 +30,4 @@ This repository contains data and scripts for the manuscript:
 
 * `PhylTrees.R`
 * Contains the R code used to plot the phylogenetic tree of supplemental figure 3 based on the `gallwasps.con.tre` file created by MrBayes.
+* The file `session_info.txt` gives information on version numbers of all R packages and the platform used for the final analysis as described in the manuscript.
