@@ -7,7 +7,7 @@ This repository contains data and scripts for the manuscript:
 ## Data availability
 
 * All code is available in this github repository.
-* Supplementary material for the publication is available at figshare: <TO BE DONE>.
+* Supplementary material for the publication is available at figshare: still to be done
     
 ## Infomation on running scripts
 
