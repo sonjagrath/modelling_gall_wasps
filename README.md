@@ -19,11 +19,11 @@ The R and Python scripts should be run from the directory they are in. Output wi
 
 * `DemonstrationOfTheModel.ipynb`
    * Demonstrates the model equations and plots the spread of Wolbachia and the infection associated mtDNA depending on the chosen parameters.
-   * Figure 5 and figure 6 are plotted here. <!-- [figure numbers need to be updated]-->
+   * Supplemental figures 1 and 2 are plotted here. <!-- [figure numbers are updated]-->
 
 * `TestingForMinimumCI.ipynb`
     * Contains the calculation of the confidence intervals, the calculation of the minimum level of CI based on maternal transmission measurements (first approach) and the comparison of the data with model predictions (second approach).
-    * Figure 9 and figure 10 are plotted here. <!-- [figure numbers need to be updated]-->
+    * Figures 2 and 3 are plotted here. <!-- [figure numbers are updated]-->
 
 #### **`R`**
 
