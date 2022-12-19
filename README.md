@@ -2,12 +2,12 @@
 
 This repository contains data and scripts for the manuscript:
  
-> Taprogge M, Grath S. Modelling Wolbachia-induced cytoplasmic incompatibility in oak gallwasps with cyclical parthenogenesis. [in preparation]
+> Taprogge M, Grath S. Modelling Wolbachia-induced cytoplasmic incompatibility in oak gallwasps with cyclical parthenogenesis. [submitted]
  
 ## Data availability
 
 * All code is available in this github repository.
-* Supplementary material for the publication is available at figshare: <!-- still to be done --> 
+* Supplementary material for the publication is available after publishing. <!-- still to be done --> 
     
 ## Directory structure
 
