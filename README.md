@@ -38,6 +38,5 @@ https://datadryad.org/stash/dataset/doi:10.5061/dryad.6k94r
 
 #### **`mtDNASeq`**
 
-* Contains the raw sequences of all the sequenced gallwasps.
-* `sample_overview.xlsx`: Excel table providing an overview of the origin, the infection status, the generation, the sex,
-the host plant and the sampling time of all the sequences in the mtDNASeq folder.
+`sample_overview.xlsx`: Excel table that provides an overview of the origin, the infection status, the generation, the sex,
+the host plant and the sampling time of all the sequences used for our analysis.
