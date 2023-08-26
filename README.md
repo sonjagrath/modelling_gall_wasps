@@ -64,7 +64,7 @@ The mtDNAseq data was manually edited and aligned (using MegaX [^6]), resulting 
 
 #### **`mtDNASeq`**
 
-`sample_overview.xlsx`: Excel table that provides an overview of the origin, the infection status, the generation, the sex, the host plant and the sampling time of all the sequences used for our analysis. This is an adapted version of the excel spreadsheet provided by Schuler and colleagues along with the raw data in [^10].
+`sample_overview.xlsx`: Excel table that provides an overview of the origin, the infection status, the generation, the sex, the host plant and the sampling time of all the sequences used for our analysis. This excel spreadsheet is part of the data provided by Schuler and colleagues along with the sequencing data in [^10].
 
 
 #### **`References`**
