@@ -2,7 +2,7 @@
 
 This repository contains data and scripts for the manuscript:
  
-> Taprogge M, Grath S. Modelling Wolbachia-induced cytoplasmic incompatibility in oak gallwasps with cyclical parthenogenesis. [submitted to Journal of Evolutionary Biology on April 5, 2023]
+> Taprogge M, Grath S. Modelling Wolbachia-induced cytoplasmic incompatibility in oak gall wasps with cyclical parthenogenesis. [submitted to Journal of Evolutionary Biology on April 5, 2023]
  
 ## Data availability
 
