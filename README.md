@@ -5,6 +5,8 @@ This repository contains data and scripts for the manuscript:
 > Taprogge M, Grath S. Modelling suggests Wolbachia-induced cytoplasmic incompatibility in oak gall wasps with cyclical parthenogenesis. [accepted for publication in Journal of Evolutionary Biology, June 2, 2024]
 
 The work that is presented in this manuscript is based on the Bachelor’s Thesis of Melanie Taprogge.
+
+[![DOI](https://zenodo.org/badge/539395560.svg)](https://zenodo.org/doi/10.5281/zenodo.11487897)
  
 ## Data availability
 
